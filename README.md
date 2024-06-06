@@ -21,8 +21,8 @@ After converting the text into speech, the output audio file will be saved in yo
 
 ## 📸 Screenshot
 
-![Screenshot 1](https://github.com/yashkarkhanis01/Text-To-Speech/blob/main/Text%20to%20Speech/Screenshot/SS1.png)
-![Screenshot 2](https://github.com/yashkarkhanis01/Text-To-Speech/blob/main/Text%20to%20Speech/Screenshot/SS2.png)
+![Screenshot 1](https://github.com/yashkarkhanis01/Text-to-Speech-Using-Python/blob/main/Text%20to%20Speech%20Using%20Python/Screenshot/SS1.png)
+![Screenshot 2](https://github.com/yashkarkhanis01/Text-to-Speech-Using-Python/blob/main/Text%20to%20Speech%20Using%20Python/Screenshot/SS2.png)
 
 ## 🚀 How to Use
 1. **Clone the Repository:**
