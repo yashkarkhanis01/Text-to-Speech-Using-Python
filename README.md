@@ -38,7 +38,7 @@ After converting the text into speech, the output audio file will be saved in yo
   
 4. **Run the Application:**
 
-      python main.py
+      python GUI.py
 
 ## 🤔 Usage
 - Enter the text you want to convert into speech.
