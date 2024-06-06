@@ -33,7 +33,9 @@ After converting the text into speech, the output audio file will be saved in yo
 2. **Install the Required Libraries:**
 
       pip install gtts
+   
       pip install playsound
+   
       pip install pillow
   
 4. **Run the Application:**
