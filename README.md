@@ -55,7 +55,7 @@ After converting the text into speech, the output audio file will be saved in yo
 
 ## ❤️ Contributors:
 <br>
-<a href="https://github.com/yashkarkhanis01/Text-to-Speech/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=yashkarkhanis01/Text-to-Speech&&max=817" />
+<a href="https://github.com/yashkarkhanis01/Customer-Support-Chatbot/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=yashkarkhanis01/Customer-Support-Chatbot&&max=817" />
 </a>
 </br>
